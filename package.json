@@ -1,0 +1,29 @@
+{
+  "name": "fed24gb-fullstack-21-aug",
+  "version": "1.0.0",
+  "description": "TypeScript i frontend, forsättning med DOM-manipulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Folkuniversitetet-FED24-GB/FED24GB-Fullstackutveckling-21-aug.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Folkuniversitetet-FED24-GB/FED24GB-Fullstackutveckling-21-aug/issues"
+  },
+  "homepage": "https://github.com/Folkuniversitetet-FED24-GB/FED24GB-Fullstackutveckling-21-aug#readme",
+  "devDependencies": {
+    "typescript": "^5.9.2",
+    "vite": "^6.3.5"
+  },
+  "private": "true"
+}

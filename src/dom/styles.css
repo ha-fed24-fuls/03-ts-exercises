@@ -1,0 +1,24 @@
+.traffic-light {
+  display: flex;
+  gap: 1rem;
+  margin: 1rem;
+}
+
+.traffic-light > div {
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+  background-color: black;
+}
+
+.traffic-light .light-red.on {
+  background-color: red;
+}
+
+.traffic-light .light-yellow.on {
+  background-color: yellow;
+}
+
+.traffic-light .light-green.on {
+  background-color: green;
+}
